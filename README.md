@@ -1,6 +1,6 @@
 Includes: 
 - pins assignments in the DE1_SoC.qsf file
-- synthesizable testbench code in
+- synthesizable testbench code and processor logic in
    - cpu.sv
    - cpu_tb.sv
    - regfile.sv
